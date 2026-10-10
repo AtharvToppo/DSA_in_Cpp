@@ -2,3 +2,4 @@ Orginal data
 4 6 9 3 
 Sorted data
 3 4 6 9 
+Sorted data
